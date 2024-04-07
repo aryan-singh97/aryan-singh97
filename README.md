@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Aryan and I am currently persuing my masters in Information and Communications Technnology at FAU Erlangen-Nürnberg, Germany. I am passionate about learning new technologies. <br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Nuxt and NodeJS<br>- ⚡ In my free time I like to learn about Machine Learning</p>
+<p align="left">I'm Aryan and I am currently persuing my masters in Information and Communications Technnology at FAU Erlangen-Nürnberg, Germany. I am passionate about learning new technologies. <br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning Nuxt and NodeJS<br>- ⚡ In my free time I like to learn about Machine Learning</p>
 
 ###
 
