@@ -5,9 +5,13 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/aryan97" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://x.com/aryan17sin?s=21&t=6yxOUC3obzEBQzYvClIo0w" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
@@ -26,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Aryan and I am currently persuing my masters in Information and Communications Technnology<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Nuxt and NodeJS<br>- ⚡ In my free time I like to learn about Machine Learning</p>
+<p align="left">I'm Aryan and I am currently persuing my masters in Information and Communications Technnology at FAU Erlangen-Nürnberg, Germany. I am passionate about learning new technologies. <br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning Nuxt and NodeJS<br>- ⚡ In my free time I like to learn about Machine Learning</p>
 
 ###
 
